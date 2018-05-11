@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lightsource
+  - Elevator
+  - Torch
+  - Blocked
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item01
+    uniqueID: 1282524017
+    locked: 0
+  - name: Item02
+    uniqueID: 1231976471
+    locked: 0
+  - name: Tile
+    uniqueID: 3492688383
+    locked: 0
+  - name: Item03
+    uniqueID: 2671239029
+    locked: 0
+  - name: Item04
+    uniqueID: 2218779255
+    locked: 0
+  - name: NPC
+    uniqueID: 3401705599
+    locked: 0
+  - name: Player
+    uniqueID: 2519827709
+    locked: 0
+  - name: Screen Fade
+    uniqueID: 4238742301
+    locked: 0
